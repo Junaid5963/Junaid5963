@@ -2,11 +2,11 @@
 ### 🚀 Master Full-Stack Engineer | AI & Cloud Systems Architect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=00F2FE&height=150&section=header&text=Junaid%20Butt&subtitle=MEAN%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Vue.js%20%E2%80%A2%20AI%20Expert&fontSize=32&fontAlignY=40&animation=fadeIn" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/type=rect&color=00F2FE&height=150&section=header&text=Junaid%20Butt&subtitle=MEAN%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Vue.js&fontSize=30&fontAlignY=40" alt="Junaid Butt" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Mastering+TypeScript%2C+Next.js+%2B+Vue.js;Architecting+an+AI+Based+Interviewer;Full-Stack+Ecosystems+(MERN+%2B+MEAN);%E2%9A%A1+I+Love+Tech+and+Tech+Loves+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Mastering+TypeScript%2C+Next.js+%2B+Vue.js;Architecting+an+AI+Based+Interviewer;Full-Stack+Ecosystems+(MERN+%2B+MEAN)" alt="Typing Skills Engine" />
 </p>
 
 ---
@@ -47,8 +47,8 @@
 ### 📊 Real-Time Telemetry & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff&bg_color=0d1117" alt="Junaid's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&fire=00F2FE&ring=00F2FE&background=0d1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -56,11 +56,11 @@
 ### 🌌 3D Contribution Matrix & Coding Activity
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark" alt="3D Contribution Graph" width="90%"/>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark" alt="3D Grid" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&title_color=00F2FE&bg_color=0d1117" width="70%" alt="Top Languages Mastered" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="70%" alt="Top Languages Mastered" />
 </p>
 
 ---
